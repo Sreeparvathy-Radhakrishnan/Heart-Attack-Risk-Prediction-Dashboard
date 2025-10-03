@@ -80,14 +80,15 @@ This Excel-based Heart Attack Risk Prediction Dashboard successfully transforms 
 
 This project is hosted directly within a dynamic Excel workbook, utilizing the Data Model and DAX for real-time interactivity.
 
-To explore the dashboard :- https://github.com/Sreeparvathy-Radhakrishnan/Heart-Attack-Risk-Prediction-Dashboard/blob/main/Dashboard%20Image.jpg
-Download the main workbook file : 
+To explore the dashboard :- [⬇️ Download Main Workbook File (Excel)](https://github.com/Sreeparvathy-Radhakrishnan/Heart-Attack-Risk-Prediction-Dashboard/blob/main/Heart%20Attack%20Risk%20Prediction%20Dashboard.xlsx)<br>
+![Heart Attack Risk Monitor Dashboard Screenshot](https://github.com/Sreeparvathy-Radhakrishnan/Heart-Attack-Risk-Prediction-Dashboard/blob/main/Dashboard%20Image.jpg)<br> 
+
 
 - Open the file and navigate to the Dashboard sheet.
 - Interact with the Slicers (e.g., filter by State or Age Group) to observe how the DAX KPIs (like PCT_HighRisk Patients) and all dynamic charts update instantaneously. This showcases the power of the Data Model to filter and recalculate measures on the fly.
 
 ✍️ Author
 
-Name: Sreeparvathy Radhakrishnan
-LinkedIn: [Sreeparvathy Radhakrishnan on LinkedIn](LinkedIn Profile URL)
+Name: Sreeparvathy Radhakrishnan<br>
+LinkedIn: [LinkedIn]([LinkedIn Profile URL](https://www.linkedin.com/in/sreeparvathy-radhakrishnan-151883249/))
 
