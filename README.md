@@ -72,3 +72,21 @@ The interactive Excel dashboard provides dynamic controls (Slicers) to allow dri
 - Advanced Statistical Modeling: Integrate Python/R through Excel's capability to run a formal machine learning model (e.g., Logistic Regression) and feed the resulting prediction scores back into the Excel Data Model.
 - What-If Analysis: Create simple dynamic cells that allow a user to change key input factors (e.g., Stress Level) and see the immediate impact on the calculated risk scores.
 
+🎉 Conclusion
+
+This Excel-based Heart Attack Risk Prediction Dashboard successfully transforms complex health records into a powerful, accessible analytical tool. By leveraging the Excel Data Model and DAX, the solution moves beyond basic spreadsheets to deliver critical, actionable insights into demographic and behavioral risk factors, such as the alarming correlation between rising Stress Levels and higher risk scores, and the identification of geographical hotspots (like Chhattisgarh and Himachal Pradesh). It empowers healthcare organizations to make highly data-driven decisions on resource allocation, preventative care strategies, and public health awareness campaigns with just a simple, familiar tool: Microsoft Excel.
+
+🎥 Demo
+
+This project is hosted directly within a dynamic Excel workbook, utilizing the Data Model and DAX for real-time interactivity.
+
+To explore the dashboard :- Download the main workbook file : 
+
+- Open the file and navigate to the Dashboard sheet.
+- Interact with the Slicers (e.g., filter by State or Age Group) to observe how the DAX KPIs (like PCT_HighRisk Patients) and all dynamic charts update instantaneously. This showcases the power of the Data Model to filter and recalculate measures on the fly.
+
+✍️ Author
+
+Name: Sreeparvathy Radhakrishnan
+LinkedIn: [Sreeparvathy Radhakrishnan on LinkedIn](LinkedIn Profile URL)
+
